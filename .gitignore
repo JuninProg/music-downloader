@@ -1,9 +1,7 @@
 # Dirs
-data
 dist
 node_modules
 temp
 
 # Files
 .env
-package-lock.json

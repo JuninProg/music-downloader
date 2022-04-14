@@ -1,6 +1,6 @@
 import fs from 'fs';
 import ytdl from 'ytdl-core';
-import { timeoutPromise } from './helper';
+import { timeoutPromise } from './helpers';
 
 export interface IFetchYoutubeLinkDTO {
   link: string;
