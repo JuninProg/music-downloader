@@ -18,6 +18,6 @@ APP para baixar músicas do YouTube. Você fornecerá uma lista de links do YouT
 
 ### Em produção
 
-- Rode `npm run build` para compilar a aplicação e o servidor, o diretório de saída será `./dist`.
+- Rode `npm run build` para compilar a aplicação e o servidor, o diretório de saída será `./dist`;
 - Os arquivos `./dist/app` devem ser servidos de forma estática para hospedar a aplicação;
 - Os arquivos `./dist/server` são os do servidor, para rodar a API digite o comando `node ./dist/server/index.js`.
